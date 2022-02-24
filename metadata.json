@@ -1,0 +1,8 @@
+{
+  "name": "verde",
+  "description": "Pinta de verde todas las ventanas",
+  "uuid": "verde@danigm.net",
+  "shell-version": [
+    "40"
+  ]
+}
